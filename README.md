@@ -2,7 +2,7 @@
 
 👨‍💻 **Backend Developer** | Mainly Java | Learning AI, ML  
 🚀 I create web, desktop and mobile apps  
-🎯 I am currently working on a web service for event management and ticketing in Java Spring - PassGo
+🎯 I am currently working on a web service for uniting people living in modern neighborhoods and housing estates - Unite
 
 ## 🛠️ Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -17,4 +17,4 @@
 ## 📫 Contact
 📧 Email: dorian.remigiusz.guz@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-guz-7b31432a1/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dorian-guz-7b31432a1/](https://www.linkedin.com/in/dorian-guz-48517138b/))  
